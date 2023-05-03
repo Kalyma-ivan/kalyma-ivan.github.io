@@ -122,4 +122,7 @@ body, html {
         height: 110vw;
         bottom: 10vh;
     }
+    .description.hidden {
+        opacity: 1;
+    }
 }
